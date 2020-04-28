@@ -1,4 +1,5 @@
 // All Star Code Challenge Zone - 1
+// Challenge Link: https://hackmd.io/@danteasc4/ASCChallengeZone/%2F%40danteasc4%2FASCCZLottoCheck
 // Author: Faisal Hossain
 
 function lottoCheck (ticket) {
